@@ -13,8 +13,9 @@ print(len(linksList))
 
 for ele in linksList:
     link_text = ele.text
-    print(link_text)
-    print(ele.get_attribute('href'))
+    if not (link_text == "" or link_text == None):
+        print(link_text)
+        print(ele.get_attribute('href'))
 
 
 imageList = driver.find_elements(By.TAG_NAME, 'img')
