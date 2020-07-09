@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d631c13-1a5d-4a1a-97a2-f74fced7a788" name="Default Changelist" comment="" />
+    <list default="true" id="5d631c13-1a5d-4a1a-97a2-f74fced7a788" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SeleniumSessions/AlertJSPopUp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSessions/AuthPopUpHandle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSessions/FileUploadHandle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSessions/HandleFrame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSessions/switchTo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,34 +27,70 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="log" value="1" />
-          <entry key="py" value="30" />
+          <entry key="py" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="30" />
+          <entry key="Python" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7146" />
+          <entry key="py" value="8006" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7146" />
+          <entry key="Python" value="8006" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SeleniumSessions/MoveToElementConcept.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SeleniumSessions/AlertJSPopUp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state>
+              <caret selection-end-line="9" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SeleniumSessions/HandleFrame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SeleniumSessions/AuthPopUpHandle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="9" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SeleniumSessions/FileUploadHandle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -58,32 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SeleniumSessions/DragAndDrop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SeleniumSessions/RightClick.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SeleniumSessions/ElementActionsConcept.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state>
+              <caret selection-end-line="9" selection-end-column="73" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -123,6 +142,11 @@
         <option value="$PROJECT_DIR$/SeleniumSessions/DragAndDrop.py" />
         <option value="$PROJECT_DIR$/SeleniumSessions/RightClick.py" />
         <option value="$PROJECT_DIR$/SeleniumSessions/ElementActionsConcept.py" />
+        <option value="$PROJECT_DIR$/SeleniumSessions/switchTo.py" />
+        <option value="$PROJECT_DIR$/SeleniumSessions/AlertJSPopUp.py" />
+        <option value="$PROJECT_DIR$/SeleniumSessions/HandleFrame.py" />
+        <option value="$PROJECT_DIR$/SeleniumSessions/AuthPopUpHandle.py" />
+        <option value="$PROJECT_DIR$/SeleniumSessions/FileUploadHandle.py" />
       </list>
     </option>
   </component>
@@ -181,8 +205,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ElementActionsConcept">
-    <configuration name="ActionsClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.FileUploadHandle">
+    <configuration name="AlertJSPopUp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Selenium-Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,7 +218,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumSessions/ActionsClass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumSessions/AlertJSPopUp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DragAndDrop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="AuthPopUpHandle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Selenium-Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,7 +239,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumSessions/DragAndDrop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumSessions/AuthPopUpHandle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ElementActionsConcept" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FileUploadHandle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Selenium-Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,7 +260,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumSessions/ElementActionsConcept.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumSessions/FileUploadHandle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MoveToElementConcept" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HandleFrame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Selenium-Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,7 +281,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumSessions/MoveToElementConcept.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumSessions/HandleFrame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RightClick" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="switchTo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Selenium-Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,7 +302,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumSessions/RightClick.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumSessions/switchTo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,19 +312,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ActionsClass" />
-      <item itemvalue="Python.MoveToElementConcept" />
-      <item itemvalue="Python.DragAndDrop" />
-      <item itemvalue="Python.RightClick" />
-      <item itemvalue="Python.ElementActionsConcept" />
+      <item itemvalue="Python.switchTo" />
+      <item itemvalue="Python.AlertJSPopUp" />
+      <item itemvalue="Python.HandleFrame" />
+      <item itemvalue="Python.AuthPopUpHandle" />
+      <item itemvalue="Python.FileUploadHandle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ElementActionsConcept" />
-        <item itemvalue="Python.RightClick" />
-        <item itemvalue="Python.DragAndDrop" />
-        <item itemvalue="Python.MoveToElementConcept" />
-        <item itemvalue="Python.ActionsClass" />
+        <item itemvalue="Python.FileUploadHandle" />
+        <item itemvalue="Python.AuthPopUpHandle" />
+        <item itemvalue="Python.HandleFrame" />
+        <item itemvalue="Python.AlertJSPopUp" />
+        <item itemvalue="Python.switchTo" />
       </list>
     </recent_temporary>
   </component>
@@ -335,13 +359,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23673469" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23673469" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29387754" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29387754" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -509,10 +533,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SeleniumSessions/DragAndDrop.py">
+    <entry file="file://$PROJECT_DIR$/SeleniumSessions/switchTo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumSessions/MoveToElementConcept.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -521,8 +555,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SeleniumSessions/RightClick.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state>
+          <caret selection-end-line="9" selection-end-column="66" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -539,10 +573,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SeleniumSessions/MoveToElementConcept.py">
+    <entry file="file://$PROJECT_DIR$/SeleniumSessions/DragAndDrop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state>
+          <caret selection-end-line="9" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumSessions/AlertJSPopUp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumSessions/HandleFrame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumSessions/AuthPopUpHandle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumSessions/FileUploadHandle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
