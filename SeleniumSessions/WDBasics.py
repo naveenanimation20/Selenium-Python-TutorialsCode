@@ -5,14 +5,18 @@ from webdriver_manager.firefox import GeckoDriverManager
 
 import time
 
-browser_name = "chrome"
+browser_name = "firefox"
 if browser_name == "chrome":
-    #driver = webdriver.Chrome(executable_path="/Users/NaveenKhunteta/Downloads/chromedriver")
-    driver = webdriver.Chrome(ChromeDriverManager().install())
+    options = webdriver.ChromeOptions()
+    options.headless = True
+    driver = webdriver.Chrome(executable_path="/Users/NaveenKhunteta/Downloads/chromedriver", options=options)
+    #driver = webdriver.Chrome(ChromeDriverManager().install())
 
 elif browser_name == "firefox":
     #driver = webdriver.Firefox(executable_path="/Users/NaveenKhunteta/Downloads/geckodriver")
-    driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+    options = webdriver.FirefoxOptions()
+    options.headless = True
+    driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options= options)
 elif browser_name == "safari":
     driver = webdriver.Safari()
 else:

@@ -14,3 +14,21 @@
 1593828790244	Marionette	INFO	Listening on port 60790
 1593828790339	Marionette	WARN	TLS certificate errors will be ignored for this session
 1593828796681	Marionette	INFO	Stopped listening on port 60790
+1594664276967	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fd/lw5s91x96f947xsp40gd_2180000gp/T/rust_mozprofile1Uoiaq"
+1594664280341	Marionette	INFO	Listening on port 57111
+1594664280410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594664294397	Marionette	INFO	Stopped listening on port 57111
+1594664302923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fd/lw5s91x96f947xsp40gd_2180000gp/T/rust_mozprofile6N4HIN"
+*** You are running in headless mode.
+1594664305399	Marionette	INFO	Listening on port 57298
+1594664305431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594664309786	Marionette	INFO	Stopped listening on port 57298
+1594664730473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fd/lw5s91x96f947xsp40gd_2180000gp/T/rust_mozprofile4wJXlD"
+*** You are running in headless mode.
+1594664732905	Marionette	INFO	Listening on port 59236
+1594664732984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594664762772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fd/lw5s91x96f947xsp40gd_2180000gp/T/rust_mozprofileuloEF4"
+*** You are running in headless mode.
+1594664765595	Marionette	INFO	Listening on port 59500
+1594664765614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594664769932	Marionette	INFO	Stopped listening on port 59500
